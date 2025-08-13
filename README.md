@@ -32,7 +32,7 @@ By excluding the angiogram‑based **“ca”** feature, we help you dodge unnec
 ---
 
 ## ⚙️ Installation
-git clone https://github.com/anasrobo/Cardiac_Forecasting_System.git
+git clone https://github.com/Likithareddy08/Cardiac_Forecasting_System.git
 cd Cardiac_Forecasting_System
 
 python3 -m venv venv
